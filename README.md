@@ -9,4 +9,4 @@
 - Librería la Leyenda(https://github.com/befometh-legacy/la-leyenda)
 
 ## 📚 Historial de Aprendizaje
-Mis primeros proyectos y ejercicios de formación están en befometh-almacen (https://github.com/befometh-almacen).  
+Mis primeros proyectos y ejercicios de formaciógitn están en befometh-almacen (https://github.com/befometh-almacen).  
