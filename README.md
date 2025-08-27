@@ -6,7 +6,7 @@
 - 📫 Contáctame: cris.acevedo9009@gmail.com
 
 ## 🚀 Proyectos Destacados
-- Librería la Leyenda(https://github.com/befometh-legacy/la-leyenda)
+- Librería la Leyenda(https://github.com/befometh-legacy/libreria-leyenda)
 
 ## 📚 Historial de Aprendizaje
 Mis primeros proyectos y ejercicios de formación están en befometh-almacen (https://github.com/befometh-almacen).  
