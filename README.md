@@ -7,6 +7,7 @@
 
 ## 🚀 Proyectos Destacados
 - Librería la Leyenda(https://github.com/befometh-legacy/libreria-leyenda)
+- Umbral WoD(https://github.com/befometh/befometh/el-umbral-wod)
 
 ## 📚 Historial de Aprendizaje
 Mis primeros proyectos y ejercicios de formación están en befometh-almacen (https://github.com/befometh-almacen).  
